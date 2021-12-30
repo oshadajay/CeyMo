@@ -1,6 +1,6 @@
 # CeyMo Road Markings Dataset
 
-![image_grid](https://github.com/oshadajay/CeyMo-Test/blob/main/figures/image_grid.png)
+![image_grid](https://github.com/oshadajay/CeyMo/blob/main/figures/image_grid.png)
 
 ## Overview
 
@@ -25,7 +25,7 @@ The road marking annotations are provided in three formats: polygons, bounding b
 The polygon annotations in JSON format are considered as the ground truth and bounding box annotations in XML format and segmentation masks in PNG format are provided as additional annotations. 
 The camera and the vehicle used for capturing each image, and the category (only for test images) are also annotated. 
 
-![annotation_formats](https://github.com/oshadajay/CeyMo-Test/blob/main/figures/annotation_formats.png)
+![annotation_formats](https://github.com/oshadajay/CeyMo/blob/main/figures/annotation_formats.png)
 
 [Labelme](https://github.com/wkentaro/labelme) can be used to visualize the polygon annotations (Images and JSON files should be copied to the same folder) and [LabelImg](https://github.com/tzutalin/labelImg) can be used to visualize the bounding box annotations (Images and XML files should be copied to the same folder).
 The segmentation masks have the following color mapping for the 11 classes in the dataset. Colors are given as RGB color codes.
@@ -48,7 +48,7 @@ The segmentation masks have the following color mapping for the 11 classes in th
 
 The column graph (a) shows the frequency of each class in the dataset while the pie chart (b) shows the proportion of each scenario in the test set.
 
-![dataset_statistics](https://github.com/oshadajay/CeyMo-Test/blob/main/figures/dataset_statistics.png)
+![dataset_statistics](https://github.com/oshadajay/CeyMo/blob/main/figures/dataset_statistics.png)
 
 ## Evaluation
 
