@@ -85,13 +85,14 @@ The performance of the four baseline models trained and evaluated on our dataset
 
 If you use our dataset in your work, please cite the following paper.
 ```
-@article{jayasinghe2021ceymo,
-  title={CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking Detection},
-  author={Jayasinghe, Oshada and Hemachandra, Sahan and Anhettigama, Damith and Kariyawasam, Shenali and Rodrigo, Ranga and Jayasekara, Peshala},
-  journal={arXiv preprint arXiv:2110.11867},
-  year={2021}
+@InProceedings{Jayasinghe_2022_WACV,
+    author    = {Jayasinghe, Oshada and Hemachandra, Sahan and Anhettigama, Damith and Kariyawasam, Shenali and Rodrigo, Ranga and Jayasekara, Peshala},
+    title     = {CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {3104-3113}
 }
 ```
-
 
 
