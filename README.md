@@ -1,4 +1,4 @@
-# CeyMo Road Markings Dataset
+# CeyMo Road Marking Dataset
 
 ![image_grid](https://github.com/oshadajay/CeyMo/blob/main/figures/image_grid.png)
 
