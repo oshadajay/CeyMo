@@ -8,7 +8,7 @@ CeyMo is a novel benchmark dataset for road marking detection which covers a wid
 The dataset consists of 2887 total images of 1920 &times; 1080 resolution with 4706 road marking instances belonging to 11 classes. 
 The test set is divided into six categories: normal, crowded, dazzle light, night, rain and shadow.
 
-For more details, please refer to our paper [CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking Detection](https://arxiv.org/abs/2110.11867).
+For more details, please refer to our paper [CeyMo: See More on Roads - A Novel Benchmark Dataset for Road Marking Detection](https://openaccess.thecvf.com/content/WACV2022/papers/Jayasinghe_CeyMo_See_More_on_Roads_-_A_Novel_Benchmark_Dataset_WACV_2022_paper.pdf).
 
 ## Download
 
